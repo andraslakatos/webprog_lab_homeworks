@@ -1,2 +1,2 @@
 # webprog_lab_homeworks
-This is a repository my homeworks.
+Ez a repository a webprgoramozás gyakorlat házifeladatokhoz.
